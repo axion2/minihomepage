@@ -1,0 +1,80 @@
+.sat {
+  color: blue;
+}
+.sun {
+  color: red;
+}
+.item5 {
+
+}
+.calender12 {
+  display: flex;
+  flex: wrap;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #eee;
+}
+.calender1 {
+  text-align: center;
+  margin-right: 10px;
+  color: teal;
+  font-weight: bold;
+}
+.why {
+  color: orange;
+}
+.diary1 {
+  border: 1px solid #eee;
+  margin-bottom: 40px;
+}
+.diary1 h4 {
+  color: teal;
+  padding-left: 23.9px;
+}
+.diary2 {
+  border: 1px solid #eee;
+  margin-bottom: 40px;
+}
+.diary2 h4 {
+  color: teal;
+  padding-left: 23.9px;
+}
+.item5 p {
+  text-align: center;
+}
+.diary {
+  overflow: auto;
+  width: 505.597px;
+  height: 460px;
+}
+.lock {
+  text-align: center;
+}
+.locked {
+  color: white;
+  background-color: white;
+  border: 0;
+}
+.locked:hover {
+  width: 60%;
+  height: 30px;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: orange;
+  color: white;
+}
+#secret-box {
+  display: none;
+}
+.diary-box {
+  border: 1px solid #eee;
+  margin-bottom: 40px;
+}
+.diary-date h4 {
+  color: teal;
+  padding-left: 23.9px;
+}
+.diary-text {
+  text-align: center;
+  padding-bottom: 24px;
+}

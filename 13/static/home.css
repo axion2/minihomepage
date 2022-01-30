@@ -1,0 +1,54 @@
+h3 {
+  border-bottom: 1px solid;
+  margin-top: 11.06px;
+  margin-bottom: 10px;
+  color: steelblue;
+}
+.today {
+  color: red;
+}
+.news {
+  margin: 2px 0 2px 0;
+}
+.photo {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  padding: 0.5px;
+  margin-right: 4px;
+}
+.board {
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  margin-right: 4px;
+  padding: 0.5px;
+}
+.updated {
+  display: flex;
+}
+.updated-left {
+  flex: 0.5;
+}
+.updated-right {
+  flex: 0.5;
+}
+.right1 {
+  border-bottom: 1px dashed;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 60px;
+}
+.rihht1-1 {
+  flex: 0.5;
+}
+.rihht1-2 {
+  flex: 0.5;
+}
+.right2 {
+  border-bottom: 1px dashed;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 60px;
+  padding-top: 5px;
+}

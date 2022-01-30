@@ -1,0 +1,49 @@
+.visitor {
+  overflow: auto;
+  width: 505.6px;
+  height: 545px;
+}
+h4 {
+  background-color: gainsboro;
+  padding: 10px 0 10px 10px;
+}
+.visitor1 h4 {
+  margin-top: 5px;
+}
+
+.visitorLR {
+  display: flex;
+  margin-bottom: 50px;
+}
+.pp1 {
+  background-image: url("./img/뚱이집.jpeg");
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pp2 {
+  background-image: url("./img/핑핑이집.jpeg");
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pp3 {
+  background-image: url("./img/징징이집.jpeg");
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.visitorR {
+  text-align: center;
+  padding-left: 20px;
+  padding-top: 50px;
+}
+.name {
+  color: royalblue;
+}
